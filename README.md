@@ -3,4 +3,6 @@
 
 Заметки по решению задач с литкода.
 
-Мой профиль: https://leetcode.com/stepanzh/.
+- Мой профиль: https://leetcode.com/stepanzh/
+- Дорожная карта: https://neetcode.io/
+- Классификация по паттернам и компаниям: https://seanprashad.com/leetcode-patterns/
